@@ -10,7 +10,7 @@
         "https://otkrivashkin.github.io/PWCat/favicon.ico",
         "https://otkrivashkin.github.io/PWCat/index.html",
         "https://otkrivashkin.github.io/PWCat/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://otkrivashkin.github.io/PWCat/main.e6689cc161772dd06f3c.bundle.js",
+        "https://otkrivashkin.github.io/PWCat/main.528c681c83be961c3582.bundle.js",
         "https://otkrivashkin.github.io/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js",
         "https://otkrivashkin.github.io/PWCat/styles.a831422c8ddbb50b7d09.bundle.css"
       ],
@@ -33,13 +33,13 @@
   "hashTable": {
     "https://otkrivashkin.github.io/PWCat/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
     "https://otkrivashkin.github.io/PWCat/assets/icon-128x128.png": "d4eb2e5ad75625237bd2a825569463a4578191ae",
-    "https://otkrivashkin.github.io/PWCat/main.e6689cc161772dd06f3c.bundle.js": "7b34be65bdd240e0788f59e63b8387dc9e2a3337",
+    "https://otkrivashkin.github.io/PWCat/main.528c681c83be961c3582.bundle.js": "5f7951cd558dbc5d3d2fa5901508f545d6217203",
     "https://otkrivashkin.github.io/PWCat/assets/icon-152x152.png": "9c2c9eb8ec8f2f8cba34c15728ff3ec07e5ddc60",
     "https://otkrivashkin.github.io/PWCat/polyfills.b6b2cd0d4c472ac3ac12.bundle.js": "b092f5c27ff4222179ae3e9e3164c8cc6caa09cf",
     "https://otkrivashkin.github.io/PWCat/assets/icon-256x256.png": "05646db19c8e989dab880c3d27de1e2d5adfc2dd",
     "https://otkrivashkin.github.io/PWCat/styles.a831422c8ddbb50b7d09.bundle.css": "2d54a334bf71713644c3c2f6aeed7da1ab2a647c",
     "https://otkrivashkin.github.io/PWCat/assets/icon-512x512.png": "36d7055d8cc973c26678fd5bfb17eb16071ccded",
     "https://otkrivashkin.github.io/PWCat/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://otkrivashkin.github.io/PWCat/index.html": "c96670796e0025915c12dbb413231551d0c09dfe"
+    "https://otkrivashkin.github.io/PWCat/index.html": "a287050b341cce0008ba7efe4afc4e4914b0cd7e"
   }
 }
